@@ -1,1 +1,13 @@
-# UASBUFINA_22090041_HAKAN_3B
+# Responsive Landing Page
+## [Watch it on youtube]
+### Responsive Landing Page
+
+- Responsive Christmas Landing Page Using HTML CSS And JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Includes a dark and light mode.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+💙
+
